@@ -1,3 +1,17 @@
+<p align="center">
+  <a href="https://github.com/Edu-png">
+    <img src="https://img.shields.io/badge/Autor-Eduardo%20Coqueiro-purple?style=flat&logo=github" alt="Autor">
+  </a>
+  <a href="mailto:eduardocoqueiro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eduardocoqueiro%40gmail.com-purple?style=flat&logo=gmail" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/eduardocoqueiro/">
+    <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Coqueiro-purple?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://kaggle.com/EduardoCoqueiro">
+    <img src="https://img.shields.io/badge/Kaggle-Eduardo%20Coqueiro-blue?style=flat&logo=kaggle" alt="Kaggle">
+  </a>
+</p>
 
 ![CAPAS - PROJETOS (2)](https://github.com/user-attachments/assets/2c349ae3-3892-478d-94c7-b0ec6b34a162)
 
@@ -174,3 +188,15 @@ Contribuições para melhorias do projeto são bem-vindas! Sinta-se à vontade p
    
 6. **Alura Cursos**: [Alura](https://www.alura.com.br) - Plataforma de cursos online onde este projeto foi desenvolvido, com foco em Data Science e Machine Learning.
 
+## Agradecimentos 🙏
+
+Gostaria de expressar minha sincera gratidão às seguintes contribuições e recursos que tornaram este projeto possível
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/54afb33c-97be-40b6-8c96-0f12852e946f" alt="thank-you" width="500">
+</div>
+
+## 📞 Contato
+- **LinkedIn:** [Eduardo Coqueiro](https://www.linkedin.com/in/eduardocoqueiro/)
+- **Site:** [Eduardo Coqueiro](https://dataguy.my.canva.site/eduardo-coqueiro)
+- **Kaggle:** [Eduardo Coqueiro](https://www.kaggle.com/eduardocoqueiro)
